@@ -6,9 +6,9 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 
 ## Complited Projects
 ### Almazov Projects (m-Health app with XGboost Bloog Glugouse prediction model and dietary recommender system)
-* [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS) [Patent number](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf) - 2202661781
-* [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) co-authored with my [friend](https://github.com/AndreyCKDS) [Patent number](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) - 2022664462
-* [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) [Patent number](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf) - 2021681059
+* [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS) Patent number - [2202661781]((https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf))
+* [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) co-authored with my [friend](https://github.com/AndreyCKDS) Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
+* [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
 ### Group laboratory and practical work
 * [ECG Processing](https://github.com/artemisak/EEGProcessing)
