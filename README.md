@@ -6,7 +6,7 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 
 ## Skills
 ### Program languages and Frameworks
-Swift (SwiftUI / UIkit), Python (Scikit-learn and Django / Flask), MATLAB (App Designer, ANN), R and C# (Windows Forms)
+Swift (SwiftUI / UIkit), Python (Scikit-learn and Django / Flask), MATLAB (App Designer, Biostatistics, ANN), R and C# (Windows Forms)
 
 ### Database
 SQLite (+ iOS Core Data envelope), PostgreSQL, MySQL.
