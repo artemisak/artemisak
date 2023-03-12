@@ -1,6 +1,6 @@
 # Isakov Artem
 ## Software Engineer / Research Assistant / Data Engineer / Research Engineer
-Hi, I am a [graduate](https://github.com/artemisak/artemisak/blob/main/High-tech%20medical%20systems%20and%20complexes.pdf) of ETU "LETI" Electrotechnical University, my speciality is healthcare information systems. That means I'm trained in digital signal processing and analysis of biomedical information such as EEG, ECG, EMG as well as computed tomography image processing. My second specialisation is the development of applications and databases for medical research (m-Health). And my third field of study is basics of management and marketing (medical device service).
+Hi, I am a [graduate](https://github.com/artemisak/artemisak/blob/main/High-tech%20medical%20systems%20and%20complexes.pdf) of ETU "LETI" Electrotechnical University, my speciality is healthcare information systems. That means I'm trained in digital signal processing and analysis of biomedical information such as EEG, ECG, EMG as well as computed tomography image processing. My second specialisation is the development of applications and databases for medical research (m-Health). And my third field of study is basics of management and marketing at medical industry enterprises.
 
 I am currently pursuing my Master's degree and am focusing on developing myself in iOS m-Health and Data Science development. In this direction I've completed postgraduate studies in the additional professional programme ["Development of medical user interfaces"](https://github.com/artemisak/artemisak/blob/main/Development%20of%20medical%20user%20interfaces.pdf) at "MIET" National Research University of Electronic Technology, postgraduate studies in the additional professional programme ["Methods of physiological data processing"](https://github.com/artemisak/artemisak/blob/main/Methods%20of%20Physiological%20Data%20Processing.pdf) and ["High-tech medical systems and complexes"](https://github.com/artemisak/artemisak/blob/main/High-tech%20medical%20systems%20and%20complexes.pdf) at ETU "LETI" Electrotechnical University.
 
@@ -23,6 +23,14 @@ co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://git
 * [SVR model](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
 
 ## Skills
+
+### Education
+2017 - 2021; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia
+[Bachelor’s degree](https://abit.etu.ru/ru/postupayushhim/bakalavriat-i-specialitet/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii) in Biotechnical Systems and Technologies
+
+2021 - 2023; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia
+[Master’s degree](https://abit.etu.ru/ru/postupayushhim/magistratura/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii/informacionnye-sistemy-i-tehnologii-v-lechebnyh-uchrezhdeniyah) in Biotechnical Systems and Technologies
+
 ### Program languages and Frameworks
 Swift (SwiftUI / UIkit), Python (Scikit-learn and Django / Flask), MATLAB (App Designer, Biostatistics, ANN), R and C# (Windows Forms)
 
@@ -33,4 +41,4 @@ SQLite (+ iOS Core Data envelope), PostgreSQL, MySQL.
 HTML / CSS (with Bootstrap framework) and some Java Script (ReactJS widget implementation)
 
 ### Speaking
-RU (Native), [EN (Upper Intermediate)](https://www.efset.org/cert/RNNHWv) 
+RU (Native), [EN (Upper Intermediate)](https://www.efset.org/cert/RNNHWv)
