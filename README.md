@@ -10,8 +10,6 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 * [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) | | Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
 * [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
-co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
-
 ### Group laboratory and practical work
 * [ECG Processing](https://github.com/artemisak/EEGProcessing)
 * [EEG Processing](https://github.com/artemisak/ECGProcessing)
@@ -21,6 +19,8 @@ co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://git
 ### Current Projects
 * [DiaCompanion API](https://github.com/artemisak/DiaCompanion_API)
 * [SVR](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
+
+Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
 
 ## Skills
 
