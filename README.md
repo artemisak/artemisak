@@ -5,10 +5,10 @@ Hi, I am a [graduate](https://github.com/artemisak/artemisak/blob/main/High-tech
 I am currently pursuing my Master's degree and am focusing on developing myself in iOS m-Health and Data Science development. In this direction I've completed postgraduate studies in the additional professional programme ["Development of medical user interfaces"](https://github.com/artemisak/artemisak/blob/main/Development%20of%20medical%20user%20interfaces.pdf) at "MIET" National Research University of Electronic Technology, postgraduate studies in the additional professional programme ["Methods of physiological data processing"](https://github.com/artemisak/artemisak/blob/main/Methods%20of%20Physiological%20Data%20Processing.pdf) and ["High-tech medical systems and complexes"](https://github.com/artemisak/artemisak/blob/main/High-tech%20medical%20systems%20and%20complexes.pdf) at ETU "LETI" Electrotechnical University.
 
 ## Complited Projects
-### Almazov Projects (m-Health app with XGboost Bloog Glugouse prediction model and recommender system)
-* [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS)
-* [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) co-authored with my [friend](https://github.com/AndreyCKDS)
-* [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web)
+### Almazov Projects (m-Health app with XGboost Bloog Glugouse prediction model and dietary recommender system)
+* [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS) [Patent number](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf) - 2202661781
+* [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) co-authored with my [friend](https://github.com/AndreyCKDS) [Patent number](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) - 2022664462
+* [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) [Patent number](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf) - 2021681059
 
 ### Group laboratory and practical work
 * [ECG Processing](https://github.com/artemisak/EEGProcessing)
@@ -17,8 +17,8 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 * [Dangerouse Cardiac Arrhythmias Classification](https://github.com/artemisak/DangerousCardiacArrhythmiasClassification)
 
 ### Current Projects
-* [SVR model](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
 * [DiaCompanion API](https://github.com/artemisak/DiaCompanion_API)
+* [SVR model](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
 
 ## Skills
 ### Program languages and Frameworks
