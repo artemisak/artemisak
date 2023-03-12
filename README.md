@@ -1,8 +1,8 @@
 # Isakov Artem
 ## Software Engineer / Research Assistant / Data Engineer / Research Engineer
-Hi, I'm Artem, my specialisation is informational systems in medical institution. That means I'm trained in digital data preparation and analysis of biomedical information such as EEG, ECG, EMG and computed tomography image processing. My second specialisation is the development of applications and databases for medical research (m-health). And my third field of study is basics of management and marketing (medical device service).
+Hi, I'm Artem, my specialisation is informational systems in medical institution. That means I'm trained in digital data preparation and analysis of biomedical information such as EEG, ECG, EMG and computed tomography image processing. My second specialisation is the development of applications and databases for medical research (m-Health). And my third field of study is basics of management and marketing (medical device service).
 
-At the moment, I am focusing on developing myself in iOS m-Health development and blood glucose prediction regression models (CatBoost). I also try myself in ANN. In this direction I've completed postgraduate studies in the additional professional programme "Development of medical user interfaces" at MIET National Research University, postgraduate studies in the additional professional programme "Methods of physiological data processing" and "High-tech medical systems and complexes" at ETU "LETI" Electrotechnical University.
+At the moment, I am focusing on developing myself in iOS m-Health development and blood glucose prediction regression models (CatBoost). I also try myself in ANN. In this direction I've completed postgraduate studies in the additional professional programme "Development of medical user interfaces" at MIET National Research Electrotechnical University, postgraduate studies in the additional professional programme "Methods of physiological data processing" and "High-tech medical systems and complexes" at ETU "LETI" Electrotechnical University.
 
 ## Skills
 ### Program languages and Frameworks
