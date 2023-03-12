@@ -4,6 +4,11 @@ Hi, I am a [graduate](https://github.com/artemisak/artemisak/blob/main/High-tech
 
 I am currently pursuing my Master's degree and am focusing on developing myself in iOS m-Health and Data Science development. In this direction I've completed postgraduate studies in the additional professional programme ["Development of medical user interfaces"](https://github.com/artemisak/artemisak/blob/main/Development%20of%20medical%20user%20interfaces.pdf) at "MIET" National Research University of Electronic Technology, postgraduate studies in the additional professional programme ["Methods of physiological data processing"](https://github.com/artemisak/artemisak/blob/main/Methods%20of%20Physiological%20Data%20Processing.pdf) and ["High-tech medical systems and complexes"](https://github.com/artemisak/artemisak/blob/main/High-tech%20medical%20systems%20and%20complexes.pdf) at ETU "LETI" Electrotechnical University.
 
+## Complited Projects
+* [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS)
+* [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) co-authored with my [friend](https://github.com/AndreyCKDS)
+* [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web)
+
 ## Skills
 ### Program languages and Frameworks
 Swift (SwiftUI / UIkit), Python (Scikit-learn and Django / Flask), MATLAB (App Designer, Biostatistics, ANN), R and C# (Windows Forms)
