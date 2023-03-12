@@ -20,7 +20,7 @@ co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://git
 
 ### Current Projects
 * [DiaCompanion API](https://github.com/artemisak/DiaCompanion_API)
-* [SVR model](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
+* [SVR](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
 
 ## Skills
 
