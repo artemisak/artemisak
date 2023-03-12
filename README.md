@@ -42,3 +42,7 @@ HTML / CSS (with Bootstrap framework) and some Java Script (ReactJS widget imple
 
 ### Speaking
 RU (Native), [EN (Upper Intermediate)](https://www.efset.org/cert/RNNHWv)
+
+## Contact information
+Email: art.isakow@yandex.ru
+Mobile: +7 (996) 789-75-03
