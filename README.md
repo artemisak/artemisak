@@ -15,4 +15,4 @@ SQLite (+ iOS Core Data envelope), PostgreSQL, MySQL.
 HTML / CSS (with Bootstrap framework) and some Java Script (ReactJS widget implementation)
 
 ### Speaking
-RU (Native), [EN](https://www.efset.org/cert/RNNHWv) (Upper Intermediate)
+RU (Native), [EN (Upper Intermediate)] (https://www.efset.org/cert/RNNHWv) 
