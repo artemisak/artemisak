@@ -12,7 +12,7 @@ Swift (SwiftUI / UIkit), Python (Scikit-learn and Django / Flask), MATLAB (App D
 SQLite (+ iOS Core Data envelope), PostgreSQL, MySQL.
 
 ### Additional
-HTML / CSS (with Bootsrtrap framework) and some Java Script (ReactJS widget implementation)
+HTML / CSS (with Bootstrap framework) and some Java Script (ReactJS widget implementation)
 
 ### Speaking
 RU (Native), EN (Upper Intermediate)
