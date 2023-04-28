@@ -24,6 +24,7 @@ Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://git
 
 ## My publications
 [AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816)
+[ORCID](https://orcid.org/0000-0002-2938-0575)
 
 ## Skills
 
