@@ -11,8 +11,8 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 * [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
 ### Group laboratory and practical work
-* [ECG Processing](https://github.com/artemisak/EEGProcessing)
-* [EEG Processing](https://github.com/artemisak/ECGProcessing)
+* [ECG Processing](https://github.com/artemisak/ECGProcessing)
+* [EEG Processing](https://github.com/artemisak/EEGProcessing)
 * [HVR Processing](https://github.com/artemisak/HRVProcessing)
 * [Dangerouse Cardiac Arrhythmias Classification](https://github.com/artemisak/DangerousCardiacArrhythmiasClassification)
 
