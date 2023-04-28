@@ -23,8 +23,7 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
 
 ## My publications
-[AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) \n
-[ORCID](https://orcid.org/0000-0002-2938-0575)
+[AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) and [ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575)
 
 ## Skills
 
