@@ -14,7 +14,7 @@ I am currently pursuing my Master's degree and am focusing on developing myself 
 * [ECG Processing](https://github.com/artemisak/ECGProcessing)
 * [EEG Processing](https://github.com/artemisak/EEGProcessing)
 * [HVR Processing](https://github.com/artemisak/HRVProcessing)
-* [Dangerouse Cardiac Arrhythmias Classification](https://github.com/artemisak/DangerousCardiacArrhythmiasClassification)
+* [Dangerous Cardiac Arrhythmias Classification](https://github.com/artemisak/DangerousCardiacArrhythmiasClassification)
 
 ### Current Projects
 * [DiaCompanion API](https://github.com/artemisak/DiaCompanion_API)
