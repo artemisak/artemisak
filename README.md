@@ -14,20 +14,10 @@ I have also completed advanced training courses on additional professional progr
 * [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) | | Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
 * [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
-### Group laboratory and practical work
-* [ECG Processing](https://github.com/artemisak/ECGProcessing)
-* [EEG Processing](https://github.com/artemisak/EEGProcessing)
-* [HVR Processing](https://github.com/artemisak/HRVProcessing)
-* [Dangerous Cardiac Arrhythmias Classification](https://github.com/artemisak/DangerousCardiacArrhythmiasClassification)
-
-### Current Projects
-* [DiaCompanion API](https://github.com/artemisak/DiaCompanion_API)
-* [SVR](https://github.com/artemisak/SVRBloodClugouseEstimation) and [CatBoost](https://github.com/artemisak/CatBoostBloodGlucouseEstimation) models to assess the contribution of the microbiome in predicting postprandial glycemic response levels
-
-Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
-
 ## My publications
 [AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) and [ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575)
+
+Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
 
 ## Skills
 
