@@ -9,7 +9,7 @@ I have also completed advanced training courses on additional professional progr
 4. [Professional management in the safety and ethics of application of artificial intelligence solutions in medicine and physiology](https://github.com/artemisak/artemisak/blob/main/Professional%20management%20in%20the%20safety%20and%20ethics%20of%20application%20of%20artificial%20intelligence%20solutions%20in%20medicine%20and%20physiology.pdf)
 
 ## Complited Projects
-### Almazov Projects (m-Health app with XGboost Bloog Glugouse prediction model and dietary recommender system)
+### m-health application with XGboost Bloog Glugouse prediction model and diet recommendation system for the Almazov National Medical Research Centre
 * [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS) | | Patent number - [2202661781](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf)
 * [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) | | Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
 * [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
@@ -28,21 +28,23 @@ Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://git
 2021 - 2023; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia
 [Master’s degree](https://abit.etu.ru/ru/postupayushhim/magistratura/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii/informacionnye-sistemy-i-tehnologii-v-lechebnyh-uchrezhdeniyah) in Biotechnical Systems and Technologies
 
+2023 - 2026; ITMO University, Saint-Petrsburg, Russia
+[PhD](https://abit.itmo.ru/phd) in Artificial Intelligence and Machine Learning
+
 ### Program languages and Frameworks
-Swift (SwiftUI / UIkit), Python (Scikit-learn and Django / Flask), MATLAB (App Designer, Biostatistics, ANN), R and C# (Windows Forms)
+Python / R / MATLAB and Swift (SwiftUI)
 
 ### Database
-SQLite (+ iOS Core Data envelope), PostgreSQL, MySQL.
+PostgreSQL, SQLite
 
 ### Additional
 HTML / CSS (with Bootstrap framework) and some Java Script (ReactJS widget implementation)
 
 ### Speaking
-RU (Native), [EN (Upper Intermediate)](https://www.efset.org/cert/RNNHWv)
+RU (Native), EN (Upper Intermediate)
 
 ## Contact information
 Email: art.isakow@yandex.ru
-
 Mobile: +7 (996) 789-75-03
 
 ![](https://komarev.com/ghpvc/?username=artemisak)
