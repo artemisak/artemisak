@@ -22,16 +22,11 @@ Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://git
 ## Skills
 
 ### Education
-2017 - 2021; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia
+2017 - 2021; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia [Bachelor’s degree](https://abit.etu.ru/ru/postupayushhim/bakalavriat-i-specialitet/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii) in Biotechnical Systems and Technologies
 
-[Bachelor’s degree](https://abit.etu.ru/ru/postupayushhim/bakalavriat-i-specialitet/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii) in Biotechnical Systems and Technologies
+2021 - 2023; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia [Master’s degree](https://abit.etu.ru/ru/postupayushhim/magistratura/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii/informacionnye-sistemy-i-tehnologii-v-lechebnyh-uchrezhdeniyah) in Biotechnical Systems and Technologies
 
-2021 - 2023; Saint Petersburg Electrotechnical University, Saint-Petersburg, Russia
-
-[Master’s degree](https://abit.etu.ru/ru/postupayushhim/magistratura/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii/informacionnye-sistemy-i-tehnologii-v-lechebnyh-uchrezhdeniyah) in Biotechnical Systems and Technologies
-
-2023 - 2026; ITMO University, Saint-Petrsburg, Russia
-[PhD](https://abit.itmo.ru/phd) in Artificial Intelligence and Machine Learning
+2023 - 2026; ITMO University, Saint-Petrsburg, Russia [PhD](https://abit.itmo.ru/phd) in Artificial Intelligence and Machine Learning
 
 ### Program languages and Frameworks
 Python / R / MATLAB and Swift (SwiftUI)
