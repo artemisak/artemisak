@@ -42,6 +42,6 @@ RU (Native), EN (Upper Intermediate)
 ## Contact information
 Email: art.isakow@yandex.ru
 
-Mobile: +7 (996) 789-75-03
+Mobile: +7(996)789-75-03
 
 ![](https://komarev.com/ghpvc/?username=artemisak)
