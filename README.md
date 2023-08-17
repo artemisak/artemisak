@@ -1,5 +1,5 @@
 ## ML and R&D Software Software Engineer 
-Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is healthcare information systems. I'm trained in digital signal processing and analysis of biomedical information such as EEG, ECG, EMG as well as computed tomography image processing. My second specialisation is the development of applications for medical research. Currently studing at PhD programme "Artificial Intelligence and Machine Learning" at ITMO University, focusing mainly on the development and implementation of such technologies in medicine.
+Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is healthcare information systems. I'm trained in digital signal processing and analysis of biomedical information such as EEG, ECG, EMG as well as computed tomography image processing. My second specialisation is the development of applications for medical research. Currently studying at PhD programme "Artificial Intelligence and Machine Learning" at ITMO University, focusing mainly on the development and implementation of such technologies in medicine.
 
 ## Complited Projects
 ### m-health application with XGboost Bloog Glugouse prediction model and diet recommendation system for the Almazov National Medical Research Centre
