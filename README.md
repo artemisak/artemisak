@@ -8,7 +8,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 * [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
 ## My publications
-[AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) and [ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575)
+[ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575) and [AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) 
 
 Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
 
