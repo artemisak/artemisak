@@ -3,9 +3,9 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 
 ## Complited Projects
 ### m-health application with XGboost Bloog Glugouse prediction model and diet recommendation system for the Almazov National Medical Research Centre
-* [DiaCompanion iOS Application](https://github.com/artemisak/DiaCompanion_iOS) | | Patent number - [2202661781](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf)
-* [DiaCompanion Android Application](https://github.com/artemisak/DiaCompanion_Android) | | Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
-* [DiaCompanion Web Application](https://github.com/artemisak/DiaComapnion_Web) | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
+* DiaCompanion iOS Application | | Patent number - [2202661781](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf)
+* DiaCompanion Android Application | | Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
+* DiaCompanion Web Application | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
 ## My publications
 [ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575) and [AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) 
