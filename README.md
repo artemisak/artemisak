@@ -28,13 +28,13 @@ Additional professional programmes:
 * [Professional management in the safety and ethics of application of artificial intelligence solutions in medicine and physiology](https://github.com/artemisak/artemisak/blob/main/Professional%20management%20in%20the%20safety%20and%20ethics%20of%20application%20of%20artificial%20intelligence%20solutions%20in%20medicine%20and%20physiology.pdf)
 
 ### Program languages and Frameworks
-Python / R / MATLAB and Swift (SwiftUI)
+Predominantly Python, but also MATLAB / R in ML tasks. Swift for mobile development.
 
 ### Database
-PostgreSQL, SQLite
+SQLite and superficial familiarity with PostgreSQL, MongoDB
 
 ### Additional
-HTML / CSS (with Bootstrap framework) and some Java Script (ReactJS widget implementation)
+A bit of HTML / CSS (Bootstrap) and Java Script (React, Express)
 
 ### Speaking
-RU (Native), EN (Upper Intermediate)
+RU (Native), EN (B1.2-B2)
