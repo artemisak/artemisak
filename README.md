@@ -31,10 +31,10 @@ Additional professional programmes:
 Predominantly Python, but also MATLAB / R in ML tasks. Swift for mobile development.
 
 ### Database
-SQLite and superficial familiarity with PostgreSQL, MongoDB
+SQLite and superficial familiarity with PostgreSQL, MongoDB.
 
 ### Additional
-A bit of HTML / CSS (Bootstrap) and Java Script (React, Express)
+A bit of HTML / CSS (Bootstrap) and Java Script (React, Express).
 
 ### Speaking
-RU (Native), EN (B1.2-B2)
+RU (Native), EN (B1.2-B2).
