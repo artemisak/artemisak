@@ -2,7 +2,7 @@
 Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is healthcare information systems. I'm trained in digital signal processing and analysis of biomedical information such as EEG, ECG, EMG as well as computed tomography image processing. My second specialisation is the development of applications for medical research. Currently studying at PhD programme "Artificial Intelligence and Machine Learning" at ITMO University, focusing mainly on the development and implementation of such technologies in medicine.
 
 ## Current Projects
-### Reel Time eXplainable Belife-Desire-Intention Multi-Agent System
+### Real Time eXplainable Belife-Desire-Intention Multi-Agent System
 
 [RTX-BDI-MAX (with ITMO University)](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
 
