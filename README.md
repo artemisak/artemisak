@@ -6,6 +6,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 
 [RTX-BDI-MAX (with ITMO University)](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
 
+
 ## Complited Projects
 ### m-health application with XGboost Bloog Glugouse prediction model and diet recommendation system for the Almazov National Medical Research Centre
 * DiaCompanion iOS Application | | Patent number - [2202661781](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf)
