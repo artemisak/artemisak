@@ -4,7 +4,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 ## Current Projects
 ### Real Time eXplainable Belife-Desire-Intention Multi-Agent System
 
-[RTX-BDI-MAX (with ITMO University)](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
+ - [RTX-BDI-MAX (with ITMO University)](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
 
 
 ## Complited Projects
