@@ -16,8 +16,6 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 ## My publications
 [ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575) and [AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) 
 
-Co-authored with [Andrey](https://github.com/AndreyCKDS) and [Jenya](https://github.com/JenyaPu)
-
 ## Skills
 
 ### Education
