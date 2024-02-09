@@ -5,7 +5,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 ### Real Time eXplainable Belife-Desire-Intention Multi-Agent System
 
  - [RTX-BDI-MAX (with ITMO University)](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
- - [Analyzing the influence of the microbiome on glycemic response](https://github.com/artemisak/MicrobesAndGlucouseAnalysis)
+ - [Analyzing the influence of the microbiome on glycemic response (with Almazov National Medical Center)](https://github.com/artemisak/MicrobesAndGlucouseAnalysis)
 
 
 ## Complited Projects
