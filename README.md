@@ -2,11 +2,12 @@
 Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is healthcare information systems. I'm trained in digital signal processing and analysis of biomedical information such as EEG, ECG, EMG as well as computed tomography image processing. My second specialisation is the development of applications for medical research. Currently studying at PhD programme "Artificial Intelligence and Machine Learning" at ITMO University, focusing mainly on the development and implementation of such technologies in medicine.
 
 ## Current Projects
-### Real Time eXplainable Belife-Desire-Intention Multi-Agent System
- - [RTX-BDI-MAX (with ITMO University)](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
+### Real Time eXplainable Belife-Desire-Intention Multi-Agent System  (with ITMO University)
+ - [RTX-BDI-MAX ](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
+ - [Surgery quota scheduler](https://github.com/artemisak/Surgery-quota-scheduler)
 
-### Development of probiotics for patients with gestational diabetes
- - [Analyzing the influence of the microbiome on glycemic response (with Almazov National Medical Center)](https://github.com/artemisak/MicrobesAndGlucouseAnalysis)
+### Development of probiotics for patients with gestational diabetes (with Almazov National Medical Center)
+ - [Analyzing the influence of the microbiome on glycemic response](https://github.com/artemisak/MicrobesAndGlucouseAnalysis)
 
 
 ## Complited Projects
