@@ -3,7 +3,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 
 ## Current Projects
 ### Real Time eXplainable Belife-Desire-Intention Multi-Agent System  (with ITMO University)
- - [RTX-BDI-MAX ](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
+ - [RTX-BDI-MAS](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
  - [RL task scheduler](https://github.com/artemisak/rl-task-scheduler)
 
 ### Development of probiotics for patients with gestational diabetes (with Almazov National Medical Center)
