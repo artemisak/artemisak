@@ -27,7 +27,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 
 2021 - 2023; Saint Petersburg Electrotechnical University "LETI" (ETU), Saint-Petersburg, Russia; [Master’s degree](https://abit.etu.ru/ru/postupayushhim/magistratura/napravleniya-podgotovki/biotehnicheskie-sistemy-i-tehnologii/informacionnye-sistemy-i-tehnologii-v-lechebnyh-uchrezhdeniyah) in Biotechnical Systems and Technologies
 
-2023 - 2026; National Research University of Information Technologies, Mechanics and Optics (ITMO), Saint-Petrsburg, Russia; [PhD](https://abit.itmo.ru/phd) in Artificial Intelligence and Machine Learning
+2023 - 2026; National Research University of Information Technologies, Mechanics and Optics (ITMO), Saint-Petrsburg, Russia; [PhD](https://abit.itmo.ru/en/phd) in Artificial Intelligence and Machine Learning
 
 Additional professional programmes:
 * [Development of medical user interfaces](https://github.com/artemisak/artemisak/blob/main/Development%20of%20medical%20user%20interfaces.pdf)
