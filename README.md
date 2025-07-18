@@ -18,12 +18,6 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 
 2023 - 2026; National Research University of Information Technologies, Mechanics and Optics (ITMO), Saint-Petrsburg, Russia; [PhD](https://abit.itmo.ru/en/phd) in Artificial Intelligence and Machine Learning
 
-Additional professional programmes:
-* [Development of medical user interfaces](https://github.com/artemisak/artemisak/blob/main/Development%20of%20medical%20user%20interfaces.pdf)
-* [Methods of physiological data processing](https://github.com/artemisak/artemisak/blob/main/Methods%20of%20Physiological%20Data%20Processing.pdf)
-* [High-tech medical systems and complexes](https://github.com/artemisak/artemisak/blob/main/High-tech%20medical%20systems%20and%20complexes.pdf)
-* [Professional management in the safety and ethics of application of artificial intelligence solutions in medicine and physiology](https://github.com/artemisak/artemisak/blob/main/Professional%20management%20in%20the%20safety%20and%20ethics%20of%20application%20of%20artificial%20intelligence%20solutions%20in%20medicine%20and%20physiology.pdf)
-
 ### Program languages and Frameworks
 Python (General ML), but also MATLAB (Digital Signal Processing) / R (Statistics).
 
