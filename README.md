@@ -4,19 +4,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 ## Current Projects
 ### Real Time eXplainable Belife-Desire-Intention Multi-Agent System  (with ITMO University)
  - [Graph Enchances Communications in Multi-Agent Systems](https://github.com/artemisak/DQN-EC)
- - [Real Time eXplainable Belief-Desire-Intention Multi-Agent System, RTX-BDI-MAS](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
  - [Multi-Agent Reinforcement Learning Task Scheduler](https://github.com/artemisak/rl-task-scheduler)
- - [Explainability in Multi-Agent Systems with Claude](https://github.com/artemisak/XAI)
-
-### Development of probiotics for patients with gestational diabetes (with Almazov National Medical Center)
- - [Analyzing the influence of the microbiome on glycemic response](https://github.com/artemisak/MicrobesAndGlucouseAnalysis)
-
-
-## Complited Projects
-### m-health application with XGboost Bloog Glugouse prediction model and diet recommendation system for the Almazov National Medical Research Centre
-* DiaCompanion iOS Application | | Patent number - [2202661781](https://github.com/artemisak/artemisak/blob/main/Patent%20(ios).pdf)
-* DiaCompanion Android Application | | Patent number - [2022664462](https://github.com/artemisak/artemisak/blob/main/Patent%20(android).pdf) 
-* DiaCompanion Web Application | | Patent number - [2021681059](https://github.com/artemisak/artemisak/blob/main/Patent%20(web).pdf)
 
 ## My publications
 [ORCID: 0000-0002-2938-0575](https://orcid.org/0000-0002-2938-0575) and [AuthorID (РИНЦ): 1130816](https://www.elibrary.ru/author_items.asp?authorid=1130816) 
