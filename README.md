@@ -3,6 +3,7 @@ Hi, I am a graduate of ETU "LETI" Electrotechnical University, my speciality is 
 
 ## Current Projects
 ### Real Time eXplainable Belife-Desire-Intention Multi-Agent System  (with ITMO University)
+ - [Graph Enchances Communications in Multi-Agent Systems](https://github.com/artemisak/DQN-EC)
  - [Real Time eXplainable Belief-Desire-Intention Multi-Agent System, RTX-BDI-MAS](https://github.com/artemisak/RTX-BDI-MAS-Simulator)
  - [Multi-Agent Reinforcement Learning Task Scheduler](https://github.com/artemisak/rl-task-scheduler)
  - [Explainability in Multi-Agent Systems with Claude](https://github.com/artemisak/XAI)
